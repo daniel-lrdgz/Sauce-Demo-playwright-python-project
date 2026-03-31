@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Documentos/Selenium Java/Demo"
+		},
+		{
+			"path": "venv/Scripts"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"lib",
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"c:\\Users\\Usuario\\OneDrive\\Documentos\\Selenium Java\\Selenium_data\\selenium-java-4.38.0\\selenium-java-4.38.0.jar",
+			"c:\\Users\\Usuario\\OneDrive\\Documentos\\Selenium Java\\Selenium_data\\selenium-java-4.38.0\\selenium-api-4.38.0.jar",
+			"c:\\Users\\Usuario\\OneDrive\\Documentos\\Selenium Java\\Selenium_data\\selenium-server-4.38.0.jar"
+		],
+		"java.format.settings.url": ".vscode/java-formatter.xml",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
